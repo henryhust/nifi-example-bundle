@@ -1,0 +1,5 @@
+*.iml
+target
+.idea
+acceptance-tests/overseas-origanizations/*.html
+acctptance-tests/ivg-adapter/*.html
